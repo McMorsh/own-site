@@ -4,7 +4,7 @@ site_url: https://McMorsh.github.io/own-site/
 theme:
   name: material
   palette:
-    - sheme: slate          # Темная тема
+    - scheme: slate          # Темная тема
       primary: indigo       # Основной цвет
       accent: teal          # Допольнительный цвет(кнопки)
   features:
