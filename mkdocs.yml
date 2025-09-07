@@ -1,4 +1,20 @@
 site_name: McMorsh Web
 site_url: https://McMorsh.github.io/own-site/
+
 theme:
   name: material
+  palette:
+    - sheme: slate          # Темная тема
+      primary: indigo       # Основной цвет
+      accent: teal          # Допольнительный цвет(кнопки)
+  features:
+    - navigations.tabs      # Наввигация вкладок сверху
+    - navigations.expand    # Авторазвотрот меню слева
+    - toc.integrate         # Оглавление справа
+
+markdown_extensions:
+  - admonition              # Примечания
+  - footnotes               # Сноски
+  - codehilite              # Подсветка кода
+  - pymdownx.superfences    # Вложенные блоки кода
+  - pymdownx.tabbed         # Вкладки внутри текста
