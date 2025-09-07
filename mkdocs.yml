@@ -1,0 +1,4 @@
+site_name: McMorsh Web
+site_url: https://McMorsh.github.io/own-site/
+theme:
+  name: material
