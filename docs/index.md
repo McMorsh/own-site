@@ -10,7 +10,6 @@
 - Телефон: +7 (904) 502-15-02
 - Telegram: [@Mac_Mash](https://t.me/Mac_Mash)
 - Email: [ilyawook@yandex.ru](mailto:ilyawook@yandex.ru)
-- Портфолио: [mcmorsh.github.io/own-site](https://mcmorsh.github.io/own-site/)
 - GitHub: [github.com/McMorsh](https://github.com/McMorsh)
 
 ## Обо мне
